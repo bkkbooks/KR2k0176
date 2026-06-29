@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0176/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宜都記自西陵泝江西北三入峽山行周迴隱映如絕復通高山重障非日半不見日月也
+  hash: sha256:27f36e13b5b62b7c1aec08447769239bfedef8aa438f47d2a2c9095eb01fea23
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0176_CHANT_001-1a.1-h}
+metadata:
+  title: 宜都記
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0176.xml
+hash: sha256:6bc1a7dda0287e80474edccba79555dbd5d0d560cbe256d273a5a0f6fd3dbf52
